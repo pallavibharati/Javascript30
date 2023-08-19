@@ -4,7 +4,6 @@ about: Suggest a new idea for the project
 labels: enhancement
 ---
 
-
 ## Feature Description
 **Description:** Provide a clear and concise description of the new feature or enhancement.
 
